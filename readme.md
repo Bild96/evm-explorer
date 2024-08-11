@@ -2,7 +2,7 @@
 
 
 ## 💡 Live demo
-[💠 EVM-Explorer](https://ipfs.io/ipfs/)
+[💠 EVM-Explorer](https://evm-explorer.surge.sh/)
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
 ![Screenshot5](https://github.com/user-attachments/assets/12aa3d96-ad7f-487d-a846-72975234b4db)
