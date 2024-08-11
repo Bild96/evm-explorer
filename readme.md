@@ -51,7 +51,7 @@ To get started with this boilerplate, you'll need to have the following software
 
 1. Run create web3 dapp in your terminal and select the NFT Explorer template:
   ```
-    git clone https://github.com/Bild96/evm-explorer 
+  git clone https://github.com/Bild96/evm-explorer 
   ```
 
   
@@ -61,7 +61,7 @@ To get started with this boilerplate, you'll need to have the following software
   ```
 
   
-Navigate to the[docs](https://docs.alchemy.com/docs/create-web3-dapp) to learn more about using cw3d to spin up your web3 applications
+Navigate to the [docs](https://docs.alchemy.com/docs/create-web3-dapp) to learn more about using cw3d to spin up your web3 applications
 
 
 ### Running the Project
